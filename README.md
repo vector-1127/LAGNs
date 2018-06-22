@@ -1,4 +1,4 @@
-# Graph Neural Networks （submitted to IEEE）
+# Local-Aggregation Graph Networks （submitted to IEEE）
 Deep learning on graph data
 
 Waiting the core codes...
