@@ -6,6 +6,6 @@ Waiting the core codes...
 # Results visualization
 Traffic results
 
-![](Results_visualization/NeurIPS_traffic.gif)
+![](Results_visualization/TPAMI_traffic.gif)
 
 Keras 1.1.2 + Tensorflow 0.11
